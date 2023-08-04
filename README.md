@@ -4,7 +4,7 @@
  Abra o prompt de comando e cole o código abaixo:
  
  ```
- git clone git@github.com:daniloagostinho/curso-angular-testes-unitarios-template.git
+ git clone https://github.com/fagnercsouza/curso-angular-testes-unitarios-template.git
 ```
 
 Entre na pasta do projeto
@@ -167,5 +167,3 @@ será aberto automaticamente um navegador com os testes.
 ## Seção 14
 ### Conclusão
 - Apresentação final.
-
-Este curso pode ser adquirido clicando [aqui](https://www.udemy.com/course/testes-unitarios-com-angular-14-jasmine-e-karma/?referralCode=8827BDAD28D3B528137A).
